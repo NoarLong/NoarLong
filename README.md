@@ -23,8 +23,8 @@
 ## Contact
 - **Email:** noarlong@icloud.com
 - **GitHub:** https://github.com/NoarLong
-Feel free to reach out to me for collaboration or just to say hi! 😊
-##It's ok to reach me in both English and Chinese!
+- Feel free to reach out to me for collaboration or just to say hi! 😊
+## It's ok to reach me in both English and Chinese!
 
 <!--
 **NoarLong/NoarLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
