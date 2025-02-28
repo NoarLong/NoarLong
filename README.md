@@ -1,5 +1,4 @@
-## Hi there 👋
-About Me
+# About Me
 👋 Hi there! I'm Noar Long, a passionate computer science student currently pursuing my studies at the University of Hong Kong (HKU). I completed my undergraduate degree in CS at Wuhan University in China, where I developed a strong foundation in computer science and software engineering.
 
 ## Education
