@@ -14,7 +14,7 @@
 - **Web Development:** HTML, CSS, React, Node.js
 - **Database Management:** MySQL, MongoDB
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
-- - **Languages:** English 🇬🇧,  Chinese 🇨🇳
+- **Languages:** English 🇬🇧,  Chinese 🇨🇳
 ## Interests
 
 - **Artificial Intelligence & Machine Learning:** Enthusiastic about exploring AI and ML technologies and their applications.
