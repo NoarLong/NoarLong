@@ -4,18 +4,18 @@ About Me
 
 ## Education
 - **University of Hong Kong (HKU), Hong Kong**
+  - M.Sc. in Computer Science
+  - Expected Graduation: 2025
 
-M.Sc. in Computer Science
-Expected Graduation: 2026
-
-- **Wuhan University, China**
-
-B.Sc. in Computer Science
+- **Wuhan University (WHU), China**
+  - B.Sc. in Computer Science and technology
+  - Graduated: 2019
 ## Skills
 - **Programming Languages:** Python, Java, C++, JavaScript
 - **Web Development:** HTML, CSS, React, Node.js
 - **Database Management:** MySQL, MongoDB
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
+- - **Languages:** English 🇬🇧,  Chinese 🇨🇳
 ## Interests
 
 - **Artificial Intelligence & Machine Learning:** Enthusiastic about exploring AI and ML technologies and their applications.
